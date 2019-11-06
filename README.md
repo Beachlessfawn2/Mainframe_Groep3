@@ -2,5 +2,5 @@
 Repository for information documents &amp; back-up van files.
 
 ## Groeps-id mainframe
-* Userid: HOG007
-* Password: HOG007
+* Userid: HOG0007
+* Password: james
