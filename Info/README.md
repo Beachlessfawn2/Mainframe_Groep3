@@ -9,6 +9,7 @@
 | 24/10/19 | [Stand-up_24_10_19.md](https://github.com/Beachlessfawn2/Mainframe_Groep3/blob/master/Info/Stand-ups/Stand-up_24_10_19.md) | |
 | 29/10/19 | [Stanp-up_29_10_19.md](https://github.com/Beachlessfawn2/Mainframe_Groep3/blob/master/Info/Stand-ups/Stanp-up_29_10_19.md) | To Do's nog niet afgewerkt |
 | 08/11/2019 | [Stand-up_08_11_19.md](https://github.com/Beachlessfawn2/Mainframe_Groep3/blob/master/Info/Stand-ups/Stand-up_08_11_19.md) | |
+| 14/11/2019 | [Stand-up_14_11_19.md](https://github.com/Beachlessfawn2/Mainframe_Groep3/blob/master/Info/Stand-ups/Stand-up_14_11_19.md) | Loggen van uren!!!! |
 | XX/XX/XX | [Stand-up_template.md](https://github.com/Beachlessfawn2/Mainframe_Groep3/blob/master/Info/Stand-ups/Stand-up_tamplate.md) | Template voor stand-up verslagen |
 
 ## Teampasspoort
